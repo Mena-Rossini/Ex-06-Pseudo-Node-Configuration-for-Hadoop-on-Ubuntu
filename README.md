@@ -6,7 +6,7 @@ To implement Pseudo Node configuration for Hadoop on ubuntu
 
 ## Pre-requisites
 
-a) jdk
+a) jdk:
 
 Single-Node Configuration
 
